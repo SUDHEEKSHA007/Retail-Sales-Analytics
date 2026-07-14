@@ -53,3 +53,19 @@ Superstore Retail Dataset
 - DAX Measures
 - Data Visualization
 - Business Analysis
+
+## Tools Used
+
+- Power BI
+- Microsoft Excel
+- CSV Dataset
+- Data Cleaning
+- Data Visualization
+
+  ## Dashboard Insights
+
+- Consumer segment generated the highest sales.
+- Standard Class was the most frequently used shipping mode.
+- Sales increased steadily throughout the year.
+- Copiers and Phones generated the highest profit.
+- Top customers contributed significantly to total revenue.
